@@ -6,7 +6,8 @@
 #   "openai",
 #   "markdown",
 #   "seaborn",
-#   "numpy"
+#   "numpy",
+#   "httpx"
 # ]
 # ///
 
